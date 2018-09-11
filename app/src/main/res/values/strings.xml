@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppQuiz</string>
+    
+    <string-array name="respostas">
+        <item>Pinhais</item>
+        <item>Colombo</item>
+        <item>Curitiba</item>
+    </string-array>
+</resources>
